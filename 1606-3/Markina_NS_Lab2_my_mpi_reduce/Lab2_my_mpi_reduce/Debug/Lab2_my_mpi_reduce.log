@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Lab2_my_mpi_reduce.cpp
+c:\users\natali\documents\visual studio 2015\projects\lab2_my_mpi_reduce\lab2_my_mpi_reduce\lab2_my_mpi_reduce.cpp(297): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab2_my_mpi_reduce.vcxproj -> C:\Users\natali\Documents\Visual Studio 2015\Projects\Lab2_my_mpi_reduce\Debug\Lab2_my_mpi_reduce.exe
+  Lab2_my_mpi_reduce.vcxproj -> C:\Users\natali\Documents\Visual Studio 2015\Projects\Lab2_my_mpi_reduce\Debug\Lab2_my_mpi_reduce.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  MatrixMultiplication_lab1.cpp
+c:\users\natali\documents\visual studio 2015\projects\markina_ns_matrixmultiplication_lab1\matrixmultiplication_lab1\matrixmultiplication_lab1.cpp(134): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\natali\documents\visual studio 2015\projects\markina_ns_matrixmultiplication_lab1\matrixmultiplication_lab1\matrixmultiplication_lab1.cpp(199): warning C4018: <: несоответствие типов со знаком и без знака
+  MatrixMultiplication_lab1.vcxproj -> C:\Users\natali\Documents\Visual Studio 2015\Projects\Markina_NS_MatrixMultiplication_lab1\Debug\MatrixMultiplication_lab1.exe
+  MatrixMultiplication_lab1.vcxproj -> C:\Users\natali\Documents\Visual Studio 2015\Projects\Markina_NS_MatrixMultiplication_lab1\Debug\MatrixMultiplication_lab1.pdb (Full PDB)

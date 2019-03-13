@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  MatrixMultiplication_lab2.cpp
+MatrixMultiplication_lab2.cpp(202): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+MatrixMultiplication_lab2.cpp(268): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  166 of 167 functions (99.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  MatrixMultiplication_lab2.vcxproj -> C:\Users\natali\Documents\Visual Studio 2015\Projects\Markina_NS_MatrixMultiplication_lab2\Release\MatrixMultiplication_lab2.exe
+  MatrixMultiplication_lab2.vcxproj -> C:\Users\natali\Documents\Visual Studio 2015\Projects\Markina_NS_MatrixMultiplication_lab2\Release\MatrixMultiplication_lab2.pdb (Full PDB)

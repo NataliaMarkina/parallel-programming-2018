@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  MatrixMultiplication_lab3_v2.cpp
+c:\users\natasha\documents\visual studio 2015\projects\matrixmultiplication_lab3_v2\matrixmultiplication_lab3_v2\matrixmultiplication_lab3_v2.cpp(55): warning C4101: k: неиспользованная локальная переменная
+c:\users\natasha\documents\visual studio 2015\projects\matrixmultiplication_lab3_v2\matrixmultiplication_lab3_v2\matrixmultiplication_lab3_v2.cpp(55): warning C4101: j: неиспользованная локальная переменная
+c:\users\natasha\documents\visual studio 2015\projects\matrixmultiplication_lab3_v2\matrixmultiplication_lab3_v2\matrixmultiplication_lab3_v2.cpp(55): warning C4101: i: неиспользованная локальная переменная
+c:\users\natasha\documents\visual studio 2015\projects\matrixmultiplication_lab3_v2\matrixmultiplication_lab3_v2\matrixmultiplication_lab3_v2.cpp(274): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\natasha\documents\visual studio 2015\projects\matrixmultiplication_lab3_v2\matrixmultiplication_lab3_v2\matrixmultiplication_lab3_v2.cpp(361): warning C4018: <: несоответствие типов со знаком и без знака
+  MatrixMultiplication_lab3_v2.vcxproj -> C:\Users\Natasha\Documents\Visual Studio 2015\Projects\MatrixMultiplication_lab3_v2\Debug\MatrixMultiplication_lab3_v2.exe
+  MatrixMultiplication_lab3_v2.vcxproj -> C:\Users\Natasha\Documents\Visual Studio 2015\Projects\MatrixMultiplication_lab3_v2\Debug\MatrixMultiplication_lab3_v2.pdb (Full PDB)

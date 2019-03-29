@@ -1,0 +1,11 @@
+﻿  MatrixMultiplication_lab2.cpp
+c:\users\natasha\documents\visual studio 2015\projects\matrixmultiplication_lab2\matrixmultiplication_lab2\matrixmultiplication_lab2.cpp(147): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\natasha\documents\visual studio 2015\projects\matrixmultiplication_lab2\matrixmultiplication_lab2\matrixmultiplication_lab2.cpp(228): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\natasha\documents\visual studio 2015\projects\matrixmultiplication_lab2\matrixmultiplication_lab2\matrixmultiplication_lab2.cpp(379): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\users\natasha\documents\visual studio 2015\projects\matrixmultiplication_lab2\matrixmultiplication_lab2\matrixmultiplication_lab2.cpp(338): warning C4101: k: неиспользованная локальная переменная
+c:\users\natasha\documents\visual studio 2015\projects\matrixmultiplication_lab2\matrixmultiplication_lab2\matrixmultiplication_lab2.cpp(338): warning C4101: j: неиспользованная локальная переменная
+c:\users\natasha\documents\visual studio 2015\projects\matrixmultiplication_lab2\matrixmultiplication_lab2\matrixmultiplication_lab2.cpp(345): warning C4101: j: неиспользованная локальная переменная
+c:\users\natasha\documents\visual studio 2015\projects\matrixmultiplication_lab2\matrixmultiplication_lab2\matrixmultiplication_lab2.cpp(345): warning C4101: k: неиспользованная локальная переменная
+c:\users\natasha\documents\visual studio 2015\projects\matrixmultiplication_lab2\matrixmultiplication_lab2\matrixmultiplication_lab2.cpp(629): warning C4101: num_of_threads: неиспользованная локальная переменная
+  MatrixMultiplication_lab2.vcxproj -> C:\Users\Natasha\Documents\Visual Studio 2015\Projects\MatrixMultiplication_lab2\Debug\MatrixMultiplication_lab2.exe
+  MatrixMultiplication_lab2.vcxproj -> C:\Users\Natasha\Documents\Visual Studio 2015\Projects\MatrixMultiplication_lab2\Debug\MatrixMultiplication_lab2.pdb (Full PDB)
